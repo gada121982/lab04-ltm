@@ -1,0 +1,36 @@
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.exe.config
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.exe
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.pdb
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csprojAssemblyReference.cache
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_01.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Properties.Resources.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.GenerateResource.cache
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.CoreCompileInputs.cache
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.exe
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.pdb
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_02.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Control.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_03.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_03_viewsource.resources
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.dll
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.pdb
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.xml
+D:\PyThon\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.CopyComplete
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.exe.config
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.exe
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\Bai_TH_Lab_04.pdb
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.dll
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.pdb
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\bin\Debug\HtmlAgilityPack.xml
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csprojAssemblyReference.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Control.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_01.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_02.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_03.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Lab04_Bai_03_viewsource.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.Properties.Resources.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.GenerateResource.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.CoreCompileInputs.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.csproj.CopyComplete
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.exe
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\lab04\complete\Bai_TH_Lab_04\Bai_TH_Lab_04\obj\Debug\Bai_TH_Lab_04.pdb
